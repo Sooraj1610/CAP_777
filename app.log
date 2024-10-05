@@ -1,0 +1,20 @@
+2024-09-30 15:35:58,567 - INFO - Registration attempt with already registered email: qwerty@gmail.com
+2024-09-30 15:36:14,284 - INFO - Successful login for user: qwerty@gmail.com
+2024-09-30 15:36:44,012 - WARNING - No news articles found for topic: accenture
+2024-09-30 15:47:14,263 - INFO - Successful login for user: qwerty@gmail.com
+2024-09-30 15:47:20,482 - WARNING - No news articles found for topic: Bitcoin
+2024-10-01 11:39:09,323 - INFO - Registration attempt with already registered email: qwerty@gmail.com
+2024-10-01 11:39:34,262 - INFO - Successful login for user: qwerty@gmail.com
+2024-10-01 11:39:49,747 - WARNING - No news articles found for topic: india
+2024-10-05 09:38:36,893 - INFO - New user registered: suraj1610@gmail.com
+2024-10-05 09:38:53,660 - INFO - Successful login for user: suraj1610@gmail.com
+2024-10-05 09:39:07,355 - WARNING - No news articles found for topic: Google
+2024-10-05 09:54:08,412 - INFO - Registration attempt with already registered email: suraj16@gmail.com
+2024-10-05 09:54:40,065 - INFO - User logged in: suraj1610@gmail.com
+2024-10-05 09:54:46,264 - INFO - User suraj1610@gmail.com fetched top 5 news articles for topic: google
+2024-10-05 14:57:57,938 - INFO - New user registered: python@gmail.com
+2024-10-05 14:59:17,745 - INFO - User logged in: python@gmail.com
+2024-10-05 14:59:44,525 - INFO - User python@gmail.com fetched top 5 news articles for topic: Facebook
+2024-10-05 15:00:35,583 - INFO - User logged in: python@gmail.com
+2024-10-05 15:00:45,349 - INFO - User python@gmail.com fetched top 5 news articles for topic: google
+2024-10-05 15:01:38,972 - INFO - Password reset for user: python@gmail.com
